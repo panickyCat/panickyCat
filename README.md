@@ -16,21 +16,26 @@
 ---
 
 # 🐱 Люблю котиков
- <img src="https://media3.giphy.com/media/901mxGLGQN2PyCQpoc/giphy.gif" alt="Моя гифка">
-
+<p align="center">
+   <img src="gifka.webp" width="220">
+</p>
 
 Котята вдохновляют меня на чистый и аккуратный код — и на анимации интерфейсов!
 
 ---
 
 # 🚀 Проекты
-
-> Хочешь посмотреть проекты — загляни в мои pinned-репозитории!
+<p align="center">
+  <img src="giphy.gif" alt="Моя гифка" width="400">
+</p>
+⇒ Хочешь посмотреть проекты — загляни в мои pinned-репозитории!
 
 ---
 
 # 📈 Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=panickyCat&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=panikyCat&show_icons=true&theme=radical)](https://github.com/panikyCat)
+
+
 
 ---
 
