@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="gif.gif" alt="Моя гифка" width="500">
+</p>
+
 # Привет! 👋 Я panickyCat
 
 <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="typing cat"/>
@@ -29,14 +33,6 @@
   <img src="giphy.gif" alt="Моя гифка" width="400">
 </p>
 ⇒ Хочешь посмотреть проекты — загляни в мои pinned-репозитории!
-
----
-
-# 📈 Статистика
-[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=panikyCat&show_icons=true&theme=radical)](https://github.com/panikyCat)
-
-
-
 ---
 
 # 💬 О себе
@@ -50,6 +46,4 @@
 - GitHub: [panickyCat](https://github.com/panickyCat)
 - Готова к сотрудничеству и новым идеям — пишите issues или PR 😊
 
----
 
-*Если хочешь — могу сделать альтернативную версию: ещё ярче (неон), в пастельных тонах, или минималистично — скажи, какая нравится больше!*
